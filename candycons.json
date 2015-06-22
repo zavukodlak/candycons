@@ -3,13 +3,23 @@
 	[ 
 		{
 			"author": "zavukodlak",
-			"url": "http://farm8.staticflickr.com/7797/18008251428_ecdb7bb603_b.jpg",
-			"name": "Beach"
+			"url": "https://i.imgur.com/3L3CweX.jpg",
+			"name": "Candyssss"
 		},
 		{
 			"author": "zavukodlak",
 			"url": "http://i.imgur.com/wDF0twN.png",
 			"name": "Osmos"
+		},
+		{
+			"author": "zavukodlak",
+			"url": "https://i.imgur.com/PxucNIy.png",
+			"name": "CandyBanner"
+		},
+		{
+			"author": "zavukodlak",
+			"url": "https://i.imgur.com/b2ytfk3.png",
+			"name": "Sweets"
 		},
 		{
 			"author": "Tapet",
@@ -96,7 +106,7 @@
 			"url": "http://farm8.staticflickr.com/7746/18009944899_edbb64f8f1_b.jpg",
 			"name": "Wallpaper 17"
 		},
-{
+                {
 			"author": "Tapet",
 			"url": "http://farm9.staticflickr.com/8774/18197335291_ddf489822e_b.jpg",
 			"name": "Wallpaper 18"
@@ -125,17 +135,8 @@
 			"author": "Tapet",
 			"url": "http://farm8.staticflickr.com/7735/18008472820_0a88719cba_b.jpg",
 			"name": "Wallpaper 23"
-		},
-		{
-			"author": "zavukodlak",
-			"url": "https://i.imgur.com/PxucNIy.png",
-			"name": "CandyBanner"
-		},
-		{
-			"author": "zavukodlak",
-			"url": "https://i.imgur.com/b2ytfk3.png",
-			"name": "Sweets"
 		}
+		
 		 
 	]
 }

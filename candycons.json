@@ -2,125 +2,107 @@
 "wallpapers": 
 	[ 
 		{
-			"author": "Google Earth View",
-			"url": "http://i.imgur.com/VRHuNCa.jpg",
-			"name": "Earth View 1"
+			"author": "Unsplash",
+			"url": "https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=1ef93eb805f94751678a846c6707e470",
+			"name": "City"
 		},
 		{
-			"author": "Google Earth View",
-			"url": "http://i.imgur.com/mrZGmim.jpg",
-			"name": "Earth View 2"
+			"author": "Unsplash",
+			"url": "https://images.unsplash.com/photo-1432256851563-20155d0b7a39?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=1ef19ee24ba63c04a8fe6ddc7c313b87",
+			"name": "Lake"
 		},
 		{
-			"author": "Google Earth View",
-			"url": "http://i.imgur.com/3O75CKl.jpg",
-			"name": "Earth View 3"
+			"author": "Unsplash",
+			"url": "https://images.unsplash.com/photo-1433354359170-23a4ae7338c6?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=4431d21de92b435b62e7185f2d56938c",
+			"name": "Mountain"
 		},
 		{
-			"author": "Google Earth View",
-			"url": "http://i.imgur.com/4ehF1Ua.jpg",
-			"name": "Earth View 4"
+			"author": "Unsplash",
+			"url": "https://images.unsplash.com/photo-1439761414027-4f4ebeeda3a3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=969f23b9f65b9b0c1779858502a20df2",
+			"name": "Waterfall"
+		},
+		{
+			"author": "Unsplash",
+			"url": "https://images.unsplash.com/photo-1440688807730-73e4e2169fb8?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=0d636a43b06d05be284d894ee82d0c1c",
+			"name": "Forest"
+		},
+		{
+			"author": "Unsplash",
+			"url": "https://images.unsplash.com/photo-1439853949127-fa647821eba0?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=af7063ee74262f20daef4b4c60453af7",
+			"name": "Mountains & Lake"
+		},
+		{
+			"author": "Unsplash",
+			"url": "https://images.unsplash.com/photo-1429091967365-492aaa5accfe?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=2d04b5654341a07e9c9af2821a187bb6",
+			"name": "Stream"
+		},
+		{
+			"author": "Unsplash",
+			"url": "https://images.unsplash.com/photo-1418065460487-3e41a6c84dc5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=7edd71d8f48ff8f5c5252b57d2d02182",
+			"name": "Pine Forest"
+		},
+		{
+			"author": "Unsplash",
+			"url": "https://images.unsplash.com/reserve/yapfjxRqy2d2rGRNc2yQ_zavrsnica-9-indie.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=875f31486b49cb7af7a548dc288e4320",
+			"name": "Stone"
+		},
+		
+		{
+			"author": "Unsplash",
+			"url": "https://images.unsplash.com/42/PcLGXNjMTdiFVKTrElCl__DSC2245.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ef2f3bef99754372d703770b30d67c19",
+			"name": "River"
+		},
+		
+		{
+			"author": "Unsplash",
+			"url": "https://images.unsplash.com/31/xDtuvK3GRJGUSUHgj0ew_IMG_3860.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=4a042624752cc8db541317ff5d2db557",
+			"name": "Coast"
 		},
 		{
 			"author": "Google Earth View",
 			"url": "http://i.imgur.com/Ez575Fd.jpg",
-			"name": "Earth View 5"
+			"name": "Earth View"
 		},
 		{
 			"author": "Google Earth View",
 			"url": "http://i.imgur.com/L8mjGa1.jpg",
-			"name": "Earth View 6"
+			"name": "Earth View"
 		},
 		{
 			"author": "Google Earth View",
 			"url": "http://i.imgur.com/xMmL7h7.jpg",
-			"name": "Earth View 7"
-		},
-		{
-			"author": "Google Earth View",
-			"url": "http://i.imgur.com/6GBakMJ.jpg",
-			"name": "Earth View 8"
+			"name": "Earth View"
 		},
 		{
 			"author": "Google Earth View",
 			"url": "http://i.imgur.com/pZoaORs.jpg",
-			"name": "Earth View 9"
+			"name": "Earth View"
 		},
 		{
 			"author": "Google Earth View",
 			"url": "http://i.imgur.com/evlda5S.jpg",
-			"name": "Earth View 10"
-		},
-		{
-			"author": "Google Earth View",
-			"url": "http://i.imgur.com/LxUkUlN.jpg",
-			"name": "Earth View 11"
-		},
-		{
-			"author": "Google Earth View",
-			"url": "http://i.imgur.com/fGoaZ5T.jpg",
-			"name": "Earth View 12"
-		},
-		{
-			"author": "Google Earth View",
-			"url": "http://i.imgur.com/BIPASRe.jpg",
-			"name": "Earth View 13"
-		},
-		{
-			"author": "Google Earth View",
-			"url": "http://i.imgur.com/KiSpklm.jpg",
-			"name": "Earth View 14"
-		},
-		{
-			"author": "Google Earth View",
-			"url": "http://i.imgur.com/WuGa2ZI.jpg",
-			"name": "Earth View 15"
-		},
-		{
-			"author": "Google Earth View",
-			"url": "http://i.imgur.com/rY6lCY6.jpg",
-			"name": "Earth View 16"
+			"name": "Earth View"
 		},
 		{
 			"author": "Google Earth View",
 			"url": "http://i.imgur.com/2MjjA57.jpg",
-			"name": "Earth View 17"
-		},
-		{
-			"author": "Google Earth View",
-			"url": "http://i.imgur.com/LamS5kt.jpg",
-			"name": "Earth View 18"
+			"name": "Earth View"
 		},
 		{
 			"author": "Google Earth View",
 			"url": "http://i.imgur.com/FlIJ9Ec.jpg",
-			"name": "Earth View 19"
+			"name": "Earth View"
 		},
 		{
 			"author": "Google Earth View",
 			"url": "http://i.imgur.com/kzWWdmg.jpg",
-			"name": "Earth View 20"
-		},
-		{
-			"author": "Google Earth View",
-			"url": "http://i.imgur.com/nyLkIqc.jpg",
-			"name": "Earth View 21"
+			"name": "Earth View"
 		},
 		{
 			"author": "Google Earth View",
 			"url": "http://i.imgur.com/tSipZj0.jpg",
-			"name": "Earth View 22"
+			"name": "Earth View"
 		},
-		{
-			"author": "Google Earth View",
-			"url": "http://i.imgur.com/qs4XTLL.jpg",
-			"name": "Earth View 23"
-		},
-		{
-			"author": "Google Earth View",
-			"url": "http://i.imgur.com/pCqU9am.jpg",
-			"name": "Earth View 24"
-		}
 		
 	
 	]

@@ -2,8 +2,8 @@
     "notifications": 
         [
             {
-                "new_walls": "1",
-                "general": "Test Notification"
+                "new_walls": "0",
+                "general": "This is test notification. Ignore it."
             }
         ]
 }
